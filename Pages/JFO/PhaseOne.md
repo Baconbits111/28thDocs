@@ -25,5 +25,5 @@ Using the display of Russian and Soviet era equipment present on airbase Carter 
 ### Establishing a Helicopter Landing Zone:
 Trainees will be instructed how to identify Helicopter landing zones and how to transmit a HLZ Brief. Trainees will then prepare a minimum of 2 simulated HLZs.
 
-### 9 Line Medivac:
+### 9 Line Medevac:
 Instructors will teach trainees how to call for medivacs. This includes "5 to fly" and procedures for loading casualties.

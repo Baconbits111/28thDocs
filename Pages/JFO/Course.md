@@ -13,7 +13,7 @@ JFO Training will be split into 3 Phases:
 - Use of Satcom Antenna
 - Enemy Vehicle Identification
 - Establishing Helicopter Landing Zones/HLZ Brief
-- 9 Line Medivac
+- 9 Line Medevac
 
 ### Phase 2 "Fires"
 - Establishing Observation Posts
