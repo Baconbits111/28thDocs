@@ -7,9 +7,9 @@ nav_order: 1
 The 28th is an active semi-serious milsim group. If you join the unit, you must be active. We are flexible and understand that everyone has a life outside of gaming. We also play games other than Arma and chill together outside of milsim events.
 
 ## Operation Schedule
-Saturday: Side Operations
+### Saturday: Side Operations
 - 3PM EST
-Sunday: Main Operation 
+### Sunday: Main Operation 
 - 3PM EST
 
 
