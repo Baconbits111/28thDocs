@@ -1,6 +1,6 @@
 ---
 title: How Airframes Fit Their Role
-parent: The ECAB's Purpose
+parent: 28th Expeditionary Combat Aviation Brigade
 has_children: false
 nav_order: 2
 ---

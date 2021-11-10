@@ -1,6 +1,6 @@
 ---
 title: Training Pipeline
-parent: The ECAB's Purpose
+parent: 28th Expeditionary Combat Aviation Brigade
 has_children: false
 nav_order: 2
 ---
