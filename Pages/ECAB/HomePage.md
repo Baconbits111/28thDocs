@@ -3,6 +3,7 @@ title: 28th Expeditionary Combat Aviation Brigade
 has_children: true
 nav_order: 2
 ---
+![ECABGif](https://github.com/Baconbits111/28thDocs/blob/main/images/image5.gif?raw=true)
 
 ## 28th ECAB
 
