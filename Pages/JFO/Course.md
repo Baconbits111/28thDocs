@@ -2,7 +2,7 @@
 title: Training and SOPs
 parent: 109th Field Artillery Regiment
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 ## Joint Fires Observer Course
 JFO Training will be split into 3 Phases:
