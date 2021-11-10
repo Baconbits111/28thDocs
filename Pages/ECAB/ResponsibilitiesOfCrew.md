@@ -1,8 +1,8 @@
 ---
 title: Aviator's Responsibility
-parent: 28th Expeditionary Combat Aviation Brigade
+parent: The ECAB's Purpose
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 ## Responsibilities
 When operating within the ECAB, aviators must maintain professionalism and competence, remain safe at all times, and when needing instruction, seek out the Chain of Command. 
