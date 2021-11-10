@@ -1,11 +1,10 @@
-## 28th Infantry Division Documents and SOPs
 
 
 
 
 
 
-## Welcome to GitHub Pages
+
 
 🚀 🐼
 
