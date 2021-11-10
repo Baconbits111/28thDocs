@@ -2,7 +2,7 @@
 title: Donations
 parent: About Us
 has_children: false
-nav_order: 6
+nav_order: 7
 ---
 ## Donations
 Remember That This Is Still Currently a WIP. Any of the rewards or amount can change at any time until it is finalized.
