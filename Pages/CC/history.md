@@ -1,0 +1,29 @@
+---
+title: Unit History
+parent: Charlie Company "CoalCracker"
+has_children: false
+nav_order: 1
+---
+## Unit History
+The 28th Infantry Division ("Keystone") is a unit of the Army National Guard and is the oldest division-sized unit in the Department of Defense. Some of the units of the division can trace their lineage to Benjamin Franklin's battalion, The Pennsylvania Associators (1747–1777). The division was officially established in 1879 and was later redesignated as the 28th Division in 1917, after the entry of America into the First World War. It is today part of the Pennsylvania Army National Guard, Maryland Army National Guard, Ohio Army National Guard, and New Jersey Army National Guard.
+
+### Keystone
+It was originally nicknamed the "Keystone Division", as it was formed from units of the Pennsylvania Army National Guard; Pennsylvania being known as the "Keystone State". During World War II, it was given the nickname the "Bloody Bucket" division by German forces due to the shape and color of its red keystone insignia. Today the 28th Infantry Division goes by the name given to it by General Pershing during World War I: "Iron Division". The 28th is the first Army National Guard division to field the Stryker infantry fighting vehicle, as part of the Army's reorganization in the first decade of the 2000s.
+The 28th is also one of the most decorated infantry divisions in the United States Army.
+
+### Unit Standing
+On 12 March 1879, Governor Henry Hoyt signed General Order Number One appointing Maj. Gen. John F. Hartranft as the first Division commander of the National Guard of Pennsylvania.[7] Pennsylvania was the first state to structure its National Guard units at such a high tactical level in peacetime. From 11 to 18 August 1894, Camp Samuel W. Crawford was the "Division Encampment at Gettysburg".
+The division was mustered into service for the Spanish–American War in 1898. Pennsylvania was initially levied 10,800 men, in ten infantry regiments and four artillery batteries. The entire division was mustered into service between 6 May and 22 July, and while 8,900 men had assembled at Mount Gretna for the muster parade on 28 April 1898, there was no difficulty in raising 12,000 men for service in two and a half months. However, only the 4th, 10th, and 16th Regiments, three artillery batteries, and three cavalry troops were deployed, to Puerto Rico. The 10th Regiment was then sent to the Philippines, being ordered home on 30 June 1899.
+The division was called up to respond to labor disturbances in 1877 and 1900.
+In 1914 the division was designated the 7th Division as part of a broad reorganization of the National Guard. On 29 June 1916 the 7th Division was mustered into service at Mount Gretna and deployed to El Paso, Texas, to serve along the Mexican border as the Regular Punitive Expedition entered Mexico. Major General Charles M. Clement commanded, directing the First Brigade comprising the 1st, 2nd, and 3rd Regiments, the Second Brigade the 10th, 16th, and 18th Regiments, and the Third Brigade the 4th, 6th, and 8th Regiments. There was also a regiment of cavalry and one of artillery, plus two companies of signals troops and medical units. The camp outside El Paso gained the title 'Camp Stewart' after the Adjutant General, Thomas J. Stewart. On 19 September, one brigade was sent home. On 14 November, the 1st Artillery left for home; the 18th Infantry left for Pennsylvania on 18 December; and the remainder of the division between 2–19 January 1917. It appears that most of the division was Mustered out of service 23 February 1917 at Philadelphia.
+The remnant left on the border included the 8th and 13th Regiments, the newly formed 3rd Artillery and Company C of the Engineers. They were released from active service in March 1917. However, the callup process for World War I was underway as these units left the border. The 13th Regiment began its return home from Texas on 21 March 1917, but en route, were told that their mustering-out orders had been rescinded.
+
+### Recent History
+In 2003, the 28th Division again led KFOR, the NATO peacekeeping mission in Kosovo, as part of KFOR 5A for a 9-month rotation. The 28th was the first reserve component division headquarters to take on this role in Kosovo. Later in 2005, elements of the 28th Division would again return to Kosovo as part of KFOR's KFOR 6B rotation, the first year-long rotation by U.S. troops to the region.
+During the Global War on Terror following the 11 September 2001 attacks on the US the Keystone Division has provided troops for Operation Enduring Freedom, Operation Noble Eagle and several thousand troops for Operation Iraqi Freedom.
+D Troop 2/104th CAV(RSTA)was activated January 2003 for two years. The platoon sized element deployed to Iraq in September 2003 as a UAV platoon with elements from the Maryland National Guard. These were the first National Guard Units to fly the Shadow UAV.
+Company A, 28th Signal Battalion deployed to Iraq in February 2004. Elements of the 103rd Armor Regiment and 1st Battalion, 107th Field Artillery were activated for Iraq in January 2004. Elements of 2nd Battalion, 103rd Armor, served as military police. The division's 2nd Brigade Combat Team deployed to Iraq for a year-long rotation in July 2005. Elements of the division would again return in 2006 and revolving deployments to Iraq seem likely in the future. The 56th Stryker Brigade Combat Team (SBCT) deployed in 2008 to Iraq. The Combat Aviation Brigade, 28th Infantry Division deployed to Iraq in May 2009.
+Operation Enduring Freedom, Sept 2009-Nov 2010 Company C, 1/110th Inf attached to TF 2nd BCT 101st (Rakkasans) served as a platoon size force protection for PRTs in Paktika, Gardez, and Khost (FOB Chapman) with support elements in FOB Salerno. On 28 Aug 2010 the platoon under 1LT Dickey repelled a Haqanni coordinated attack at FOB Chapman.
+
+
+
