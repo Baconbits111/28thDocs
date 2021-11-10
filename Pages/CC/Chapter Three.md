@@ -1,6 +1,6 @@
 ---
 title: Chapter Three "Combat Medicine"
-parent: Training Pipeline
+parent: Infantry Platoon and Squad Manual
 has_children: false
 nav_order: 3
 grand_parent: Charlie Company "CoalCracker"
