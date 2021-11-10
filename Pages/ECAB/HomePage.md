@@ -4,9 +4,9 @@ has_children: true
 nav_order: 2
 ---
 
-###28th ECAB
+### 28th ECAB
 
-##The 28th ECABs Contributing Members:
+## The 28th ECABs Contributing Members:
 - CW4 J. Ham
 - CW3 F. Jet
 - SGT J. West
