@@ -2,7 +2,7 @@
 title: Phase One
 parent: Training and SOPs
 has_children: false
-nav_order: 1
+nav_order: 4
 ---
 ## Phase One "Radio"
 Phase 1 "Radio" is a representation of basic RTO qualifications. Land navigation without a GPS, use of 8 digit grids, basic radio communications, use of the SATCOM antenna, and enemy vehicle identification will be covered in this phase. RTOs and incoming Pilots must pass Phase 1.
