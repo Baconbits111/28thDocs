@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Charlie Company "CoalCracker"
 ---
 ## Infantry Platoon and Squad Organization
-The Infantry Platoon is organized with 2-3 rifle squads, a weapons squad, and a platoon headquarters. The platoon headquarters serves as an interface to any assets available
+The Infantry Platoon is organized with 3 rifle squads, a weapons squad, and a platoon headquarters. The platoon headquarters serves as an interface to any assets available
 ![CCT1](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT1.png?raw=true)
 The platoon headquarters has 3 permanent members. The platoon leader, platoon SGT and platoon RTO. Two traditionally attached assets are the platoon medic and platoon FO.
 
