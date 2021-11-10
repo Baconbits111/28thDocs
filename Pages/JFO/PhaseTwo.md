@@ -1,5 +1,5 @@
 ---
-title: Phase Two
+title: Phase Two "Fires"
 parent: Training and SOPs
 has_children: false
 nav_order: 2
