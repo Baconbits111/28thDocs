@@ -14,11 +14,10 @@ The 28th is an active semi-serious milsim group. If you join the unit, you must 
 
 
 ## Current Leadership
-### Charlie Company "CoalCracker Actual"
+### Charlie Company 1st Platoon
 - 28th Infantry Division Platoon Leader: 2LT J. Allen
 - 28th Infantry Division Platoon Lead Medic: SPC J. Cattle
 - 28th Infantry Division Platoon Head FO/JTAC: SGT J. West 
-### Charlie Company 1st Platoon
 - 28th Infantry Division First Squad Leader: SSG F. Quibbles
 - 28th Infantry Division Second Squad Leader: SGT J. Reacher
 ### Bravo Company 28th Expeditionary Combat Aviation Brigade
