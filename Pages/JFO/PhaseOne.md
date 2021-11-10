@@ -5,6 +5,7 @@ has_children: false
 nav_order: 1
 grand_parent: 109th Field Artillery Regiment
 ---
+![P1](https://github.com/Baconbits111/28thDocs/blob/main/images/image10.jpg?raw=true)
 ## Phase One "Radio"
 Phase 1 "Radio" is a representation of basic RTO qualifications. Land navigation without a GPS, use of 8 digit grids, basic radio communications, use of the SATCOM antenna, and enemy vehicle identification will be covered in this phase. RTOs and incoming Pilots must pass Phase 1.
 
