@@ -2,7 +2,7 @@
 title: How Airframes Fit Their Role
 parent: The ECAB's Purpose
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 ## The Airframes That The 28th Operates
 - UH-60M Blackhawk

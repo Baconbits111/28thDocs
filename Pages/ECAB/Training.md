@@ -2,7 +2,7 @@
 title: Training Pipeline
 parent: The ECAB's Purpose
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 ## Training Pipeline
 
