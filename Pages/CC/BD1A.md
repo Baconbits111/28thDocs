@@ -3,7 +3,7 @@ title: Chapter Four "Battle Drills" BD1A
 parent: Training Pipeline
 has_children: false
 nav_order: 4
-grand-parent: Charlie Company "CoalCracker"
+grand_parent: Charlie Company "CoalCracker"
 ---
 ## Battle Drill 1A - Squad Attack
 At this point the squad is walking and sees the enemies in front of them.

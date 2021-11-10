@@ -3,7 +3,7 @@ title: Chapter One "The Infantry Platoon"
 parent: Training Pipeline
 has_children: false
 nav_order: 1
-grand-parent: Charlie Company "CoalCracker"
+grand_parent: Charlie Company "CoalCracker"
 ---
 ## Infantry Platoon and Squad Organization
 The Infantry Platoon is organized with 2-3 rifle squads, a weapons squad, and a platoon headquarters. The platoon headquarters serves as an interface to any assets available
@@ -21,10 +21,10 @@ The platoon medic is the platoons expert on treatment and evacuation of casualti
  The infantry fireteam is designed as a self contained team. The automatic rifleman(AR) provides the team with an internal base of fire and the ability to deliver sustained suppressive fire. The rifleman provides lethal direct fire on point targets. The grenadier provides high explosive(HE) indirect fires on targets. The fireteam leader leads the team and directs fire with all weapon systems(M249 and M320) within the fireteam.
  ![CCT2](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT2.png?raw=true)
 
- ### The Infantry Squad
+### The Infantry Squad
  The infantry squad is comprised of 2 fireteams and a squad leader. It is capable of conducting fire and maneuver with one team providing a base of fire while the other team moves to the next position of advantage or onto an objective.
 
- ### Squad Leader
+### Squad Leader
  The squad leader directs their teams through their team leaders. The SL must accomplish assigned missions on their own initiative and without constant guidance from above. The SL is responsible for all that the squad does or fails to do. Their duties include controlling the movement of the squad, its rate, and distribution of fire.
 ![CCT3](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT3.png?raw=true)
 
