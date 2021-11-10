@@ -1,7 +1,7 @@
 ---
 title: 109th Field Artillery Regiment
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 ![JFOSplash](https://github.com/Baconbits111/28thDocs/blob/main/images/image3.png?raw=true)
 ## Contributing Members:
