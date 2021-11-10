@@ -4,6 +4,7 @@ parent: 28th Expeditionary Combat Aviation Brigade
 has_children: false
 nav_order: 1
 ---
+![ECABPurpose](https://github.com/Baconbits111/28thDocs/blob/main/images/image8.jpg?raw=true)
 ## Why Choose The 28th ECAB
 
 ### Unit History

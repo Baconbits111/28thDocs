@@ -3,6 +3,7 @@ title: About Us
 has_children: true
 nav_order: 1
 ---
+![AboutUsIMG](https://github.com/Baconbits111/28thDocs/blob/main/images/image6.png?raw=true)
 ## Who Are We?
 The 28th is an active semi-serious milsim group. If you join the unit, you must be active. We are flexible and understand that everyone has a life outside of gaming. We also play games other than Arma and chill together outside of milsim events.
 

@@ -4,6 +4,7 @@ parent: About Us
 has_children: false
 nav_order: 3
 ---
+![Etiquette](https://github.com/Baconbits111/28thDocs/blob/main/images/image9.jpg?raw=true)
 ## Unit Etiquette
 ### Chat Moderation
 In the 28th, we strive to remain as professional as we can. However, we understand there are times that are just meant to be fun. Please be kind, respectful and do not spam chats. We encourage everyone to be active and engage the chats.
