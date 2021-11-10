@@ -1,10 +1,10 @@
 ---
-title: Training Pipeline
+title: Infantry Platoon and Squad Manual
 parent: Charlie Company "CoalCracker"
 has_children: true
 nav_order: 2
 ---
-# Training Pipeline
+# Infantry Platoon and Squad Manual
 ## Platoon and Squad Guideline
 ### Section One (The Infantry Platoon)
 - 1-1. Infantry Platoon and Squad Organization
