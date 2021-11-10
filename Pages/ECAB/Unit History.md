@@ -15,7 +15,7 @@ The 28th Expeditionary Combat Aviation Brigade was founded on June 1st, 1959 as 
 Attached to the 28th Infantry Division, in their continuing campaigns in Altis, Sahrani, Takistan and many more, are fine aviators and soldiers from the 2-104th GSAB. These aviators, mechanics, and avionics personnel operate, fix and support a multitude of airframes to include the AH-64 Longbow/Apache, UH-60 Blackhawk, CH-47 Chinook and the AH-6 Littlebird. The 28th ECAB has supporting personnel from the United States Air Force, with pilots trained in the state of the art A-10C and A-10C Block 2 Warthog.
 
 ## Current Orginizational Structure
-    The Units currently held within the organization are:
- - Headquarters and Headquarters Company (HHC)
- - 2-104th General Support Aviation Battalion (2-104th GSAB)
- - 628th Aviation Support Battalion (628th ASB)
+The Units currently held within the organization are:
+- Headquarters and Headquarters Company (HHC)
+- 2-104th General Support Aviation Battalion (2-104th GSAB)
+- 628th Aviation Support Battalion (628th ASB)
