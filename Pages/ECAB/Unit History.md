@@ -2,7 +2,7 @@
 title: The ECAB's Purpose
 parent: 28th Expeditionary Combat Aviation Brigade
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 ## Why Choose The 28th ECAB
 
