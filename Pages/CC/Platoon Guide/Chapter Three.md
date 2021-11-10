@@ -1,9 +1,9 @@
 ---
 title: Chapter Three "Combat Medicine"
 parent: Training Pipeline
-grand-parent: Charlie Company "CoalCracker"
 has_children: false
 nav_order: 3
+grand-parent: Charlie Company "CoalCracker"
 ---
 ## Tactical Casualty Combat Care(TC3/TCCC)
 - Tactical Combat Casualty Care (TCCC or TC3) is the standard of care in prehospital battlefield medicine. The three objectives of TC3 are to provide lifesaving care to the injured combatant, to limit the risk of further casualties, and to help the unit achieve mission success. The 3 phases of TC3 are Care Under FIre(CUF), Tactical Field Care(TFC), and Tactical Evacuation Care(TACEVAC).

@@ -1,9 +1,9 @@
 ---
 title: Chapter Two "Tactical Movements and Techniques"
 parent: Training Pipeline
-grand-parent: Charlie Company "CoalCracker"
 has_children: false
 nav_order: 2
+grand-parent: Charlie Company "CoalCracker"
 ---
 ## Tactical Movements and Techniques
 This section discusses movement formations of Infantry fire teams, squads, and platoons. The platoon leader uses formations for several purposes: to relate one squad to another on the ground; to position firepower to support the direct-fire plan; to establish responsibilities for sector security among squads; or to aid in the execution of battle drills. Just as they do with movement techniques, platoon leaders plan formations based on where they expect enemy contact, and on the company commander’s plans to react to contact. The platoon leader evaluates the situation and decides which formation best suits the mission and situation.
