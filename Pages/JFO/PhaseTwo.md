@@ -2,7 +2,8 @@
 title: Phase Two
 parent: Training and SOPs
 has_children: false
-nav_order: 5
+nav_order: 2
+grand_parent: 109th Field Artillery Regiment
 ---
 ## Phase Two "Fires"
 Phase 2 "Fires" trainees will be taught how to use artillery and combat aircraft in order to achieve mission success. This includes the establishment of observation posts, the Call for Fire, 9 Line CAS requests, use of a lasers and the laser designator, and various other methods of marking targets.
