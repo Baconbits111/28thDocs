@@ -1,6 +1,7 @@
 ---
 title: Donations
-has_children: true
+parent: About Us
+has_children: false
 nav_order: 6
 ---
 ## Donations
@@ -23,5 +24,5 @@ The amount adds up over time, meaning you can donate over time to get to the hig
 ## Donation Link
 [Donation Link](https://paypal.me/pools/c/8wL6tHZT4Q)
 
-**Please Fill Out This Form and Screenshot The Amount**
+## Please Fill Out This Form and Screenshot The Amount
 [Donation Input Form](https://forms.gle/vKWkRr6aYGYFeC1P9)
