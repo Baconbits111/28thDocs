@@ -4,6 +4,7 @@ parent: About Us
 has_children: false
 nav_order: 5
 ---
+![Policies](https://github.com/Baconbits111/28thDocs/blob/main/images/image14.png?raw=true)
 ## In Game Policies
 ### Entrenching Tool Usage
 Usage of the entrenching tool (E-Tool) in the 28th ID is strictly prohibited unless given proper clearance. Clearance can only be given by platoon leadership or the highest level leadership below, if platoon leadership is not available at the time. The purpose behind this regulation is to remove the unrealstic usage of the e-tool. We have identified the over usage in this unit and we don't want to see that happen any longer. Breaking this policy will result in disciplinary action taken against the individual/s and their leadership.

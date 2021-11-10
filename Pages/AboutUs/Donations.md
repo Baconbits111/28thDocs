@@ -4,6 +4,7 @@ parent: About Us
 has_children: false
 nav_order: 7
 ---
+![ECABPurpose](https://github.com/Baconbits111/28thDocs/blob/main/images/image15.jfif?raw=true)
 ## Donations
 Remember That This Is Still Currently a WIP. Any of the rewards or amount can change at any time until it is finalized.
 
