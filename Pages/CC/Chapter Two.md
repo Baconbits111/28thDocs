@@ -1,6 +1,6 @@
 ---
 title: Chapter Two "Tactical Movements and Techniques"
-parent: Training Pipeline
+parent: Infantry Platoon and Squad Manual
 has_children: false
 nav_order: 2
 grand_parent: Charlie Company "CoalCracker"
