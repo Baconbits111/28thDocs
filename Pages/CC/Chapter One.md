@@ -53,6 +53,7 @@ The Army’s preferred method of fighting is combined arms. Combined arms warfar
 CCT5
 {: .label .label-blue }
 ![CCT5](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT5.png?raw=true)
+
 Taking a single tracked approach can lead to poor or unsuccessful results. Focusing on one single tactical function does not present the enemy with a dilemma. Without a complimentary effect, the enemy is exposed to a problem that can be solved with a likely solution. The enemy only needs to escape the problem at hand. Without a 2nd or 3rd stressor to impair their ability to make sound decisions and the enemy is able to react and stay in the fight.
 
 ## Combat Power
