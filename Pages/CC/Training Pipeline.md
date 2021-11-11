@@ -1,5 +1,5 @@
 ---
-title: Training Pipeline
+title: Infantry Platoon and Squad
 parent: Charlie Company "CoalCracker"
 has_children: true
 nav_order: 2
