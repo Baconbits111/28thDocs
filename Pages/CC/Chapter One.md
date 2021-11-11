@@ -6,10 +6,10 @@ nav_order: 1
 grand_parent: Charlie Company "CoalCracker"
 ---
 ## Infantry Platoon and Squad Organization
-The Infantry Platoon is organized with 3 rifle squads, a weapons squad, and a platoon headquarters. The platoon headquarters serves as an interface to any assets available.
-- CCT1
+The Infantry Platoon is organized with 3 rifle squads, a weapons squad, and a platoon headquarters. The platoon headquarters serves as an interface to any assets available.The platoon headquarters has 3 permanent members. The platoon leader, platoon SGT and platoon RTO. Two traditionally attached assets are the platoon medic and platoon FO.
+CCT1
+{: .label .label-blue }
 ![CCT1](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT1.png?raw=true)
-The platoon headquarters has 3 permanent members. The platoon leader, platoon SGT and platoon RTO. Two traditionally attached assets are the platoon medic and platoon FO.
 
 ### Responsibilities
 The platoon leader is responsible for leading the platoon and is accountable for all the platoon does or fails to do. In conduct with his duties he consults the platoon SGT in all matters involving the platoon. During operations the platoon leader. Maneuvers squads and fighting elements, synchronizes the effort of the squads as a whole, and request any assets available that can be used to benefit the platoon. The platoon sergeant is the senior NCO in the platoon and is second in command. They are a tactical expert in infantry platoon and squad operations. Their duties include ensuring the platoon is prepared to accomplish their mission, establishes and controls the platoons CCP, and prepares to assume the responsibilities of the platoon leader
@@ -20,7 +20,8 @@ The platoon medic is the platoons expert on treatment and evacuation of casualti
 ### The Infantry Fireteam
  The infantry fireteam is designed to fight as a team and is the fighting element within the infantry squad. Infantry platoons and squads succeed or fail based on the actions of the fireteam. Within the infantry fireteam there are preset buddy team. Those teams are the FTL+AR and GREN+RFLM.
  The infantry fireteam is designed as a self contained team. The automatic rifleman(AR) provides the team with an internal base of fire and the ability to deliver sustained suppressive fire. The rifleman provides lethal direct fire on point targets. The grenadier provides high explosive(HE) indirect fires on targets. The fireteam leader leads the team and directs fire with all weapon systems(M249 and M320) within the fireteam.
-- CCT2
+CCT2
+{: .label .label-blue }
  ![CCT2](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT2.png?raw=true)
 
 ### The Infantry Squad
@@ -28,7 +29,8 @@ The platoon medic is the platoons expert on treatment and evacuation of casualti
 
 ### Squad Leader
  The squad leader directs their teams through their team leaders. The SL must accomplish assigned missions on their own initiative and without constant guidance from above. The SL is responsible for all that the squad does or fails to do. Their duties include controlling the movement of the squad, its rate, and distribution of fire.
-- CCT3
+CCT3
+{: .label .label-blue }
 ![CCT3](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT3.png?raw=true)
 
 ### The Weapons Squad
@@ -37,12 +39,14 @@ The 2 man machine gun team consists of a gunner and assistant gunner. The weapon
 
 ### Weapons Squad Leader
 The weapons squad leader(weasel) directs their teams through their team leaders. The WSL must accomplish assigned missions on their own initiative and without constant guidance from above. The WSL is responsible for all that the squad does or fails to do. The WSL is the most experienced squad leader in the platoon. Their duties include recommending MG positions to the PL, recommending AT position to the PL, and taking over PSG duties if PSG is unable to do his duties.
-- CCT4
+CCT4
+{: .label .label-blue }
 ![CCT4](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT4.png?raw=true)
 
 ## Combination Of Arms
 The Army’s preferred method of fighting is combined arms. Combined arms warfare is based on concepts of strengths and weaknesses. All weapons, branches, and tactics have their strengths, weaknesses, advantages and disadvantages. Understanding this, leaders use the power of combination to protect their weaknesses and using their strengths to create dilemmas for the enemy. Leaders create complimentary effects when they arrange elements with different characteristics together. Complimentary effects allow leaders to protect friendly vulnerabilities and or enhanced effects on enemies. For example leaders can combine the effects from their direct fire weapons and mortars to produce an overall greater effect on the enemy force.
-- CCT5
+CCT5
+{: .label .label-blue }
 ![CCT5](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT5.png?raw=true)
 Taking a single tracked approach can lead to poor or unsuccessful results. Focusing on one single tactical function does not present the enemy with a dilemma. Without a complimentary effect, the enemy is exposed to a problem that can be solved with a likely solution. The enemy only needs to escape the problem at hand. Without a 2nd or 3rd stressor to impair their ability to make sound decisions and the enemy is able to react and stay in the fight.
 
@@ -51,7 +55,8 @@ Combat power is the ability of a unit to fight. To generate combat power units c
 
 ## Infantry Weapons
 There are 5 types of weapons used at the infantry platoon level. Small arms, machine guns, grenade launchers, shoulder launched munitions, and close combat missile systems.
-- CCT6
+CCT6
+{: .label .label-blue }
 ![CCT6](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT6.png?raw=true)
 
 
