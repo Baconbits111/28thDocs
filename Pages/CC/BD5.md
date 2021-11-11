@@ -25,9 +25,20 @@ CCT40
 {: .label .label-blue }
 ![CCT40](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT40.png?raw=true)
 
-## Far Ambush
-### Step One
-In a far ambush the squad leader will preform react to contact and then BD1A in order to destroy the enemy. If the enemy force is overwhelming, they could always break contact.
+### Step Four
+Once bravo team starts pushing in, the support by fire team will then shift or lift fire. Bravo team then sets two guys up on the bunker window to throw a grenade into the bunker.
 CCT41
 {: .label .label-blue }
-![CCT41](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT41.png?raw=true)
+![CCT41](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT41.png?raw=true) 
+
+### Step Five
+Once bravo team clears the bunker they will move past to their LOA and alpha will move past the bunker to get to their assigned LOA.
+CCT42
+{: .label .label-blue }
+![CCT42](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT42.png?raw=true) 
+
+### Step Six
+Once bboth teams have reached their LOA, the squad leader will do an ace report and call for anthing that is needed.
+CCT43
+{: .label .label-blue }
+![CCT43](https://github.com/Baconbits111/28thDocs/blob/main/images/CCT43.png?raw=true) 
