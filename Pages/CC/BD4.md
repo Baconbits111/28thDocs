@@ -1,6 +1,6 @@
 ---
 title: Chapter Four "Battle Drills" BD4
-parent: Training Pipeline
+parent: Infantry Platoon and Squad
 has_children: false
 nav_order: 7
 grand_parent: Charlie Company "CoalCracker"

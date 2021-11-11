@@ -1,6 +1,6 @@
 ---
 title: Chapter One "The Infantry Platoon"
-parent: Training Pipeline
+parent: Infantry Platoon and Squad
 has_children: false
 nav_order: 1
 grand_parent: Charlie Company "CoalCracker"
